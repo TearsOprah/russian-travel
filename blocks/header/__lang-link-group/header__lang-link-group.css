@@ -1,0 +1,6 @@
+.header__lang-link-group {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  gap: 18px;
+}
