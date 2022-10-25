@@ -1,5 +1,12 @@
 .header__logo {
-  background-size: contain;
+  background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
+  max-height: 100%;
+}
+
+@media screen and (max-width: 568px) {
+  .header__logo {
+    max-height: 42px;
+  }
 }
