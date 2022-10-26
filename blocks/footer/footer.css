@@ -7,14 +7,6 @@
   align-items: center;
 }
 
-.footer nav ul {
-  display: flex;
-  list-style: none;
-  margin: 0;
-  padding: 0;
-  gap: 18px;
-}
-
 @media screen and (max-width: 984px) {
   .footer {
     padding: 0 24px;
@@ -28,9 +20,4 @@
     align-items: flex-start;
     padding: 0 16px;
   } 
-
-  .footer nav ul {
-    flex-direction: column;
-    gap: 32px;
-  }
 }
