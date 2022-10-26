@@ -9,4 +9,4 @@
 * адаптивность
 * работа с Figma
 
-### Ссылка на сайт 
+### Ссылка на сайт https://tearsoprah.github.io/russian-travel/
