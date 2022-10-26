@@ -1,7 +1,13 @@
 .header__lang-link-group {
   margin: 0;
-  padding: 0;
+  padding: 0 0 4px;
   display: flex;
   gap: 18px;
   list-style: none;
+}
+
+@media screen and (max-width: 568px) {
+  .header__lang-link-group {
+    padding-bottom: 6px;
+  }
 }
