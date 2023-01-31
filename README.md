@@ -10,3 +10,5 @@
 * работа с Figma
 
 ### Ссылка на сайт https://tearsoprah.github.io/russian-travel/
+
+### Статус проекта: завершен
